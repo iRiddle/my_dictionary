@@ -23,6 +23,6 @@ export default {
 
 <style>
 .container-fluid {
- /* padding: 0; */
+  padding: 0;
 }
 </style>
